@@ -1,14 +1,14 @@
 {
   "main.css": "./static/css/main.475049b3.chunk.css",
-  "main.js": "./static/js/main.646fd921.chunk.js",
-  "main.js.map": "./static/js/main.646fd921.chunk.js.map",
+  "main.js": "./static/js/main.3f761920.chunk.js",
+  "main.js.map": "./static/js/main.3f761920.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "./static/js/runtime~main.a8a9905a.js.map",
   "static/js/2.e1edc5f6.chunk.js": "./static/js/2.e1edc5f6.chunk.js",
   "static/js/2.e1edc5f6.chunk.js.map": "./static/js/2.e1edc5f6.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.4a0bcb051e57bbfb4a4bd99c7eb09203.js": "/precache-manifest.4a0bcb051e57bbfb4a4bd99c7eb09203.js",
+  "precache-manifest.344ebb04e2ef40b2d12a12589aafaad1.js": "/precache-manifest.344ebb04e2ef40b2d12a12589aafaad1.js",
   "service-worker.js": "/service-worker.js",
   "static/css/main.475049b3.chunk.css.map": "./static/css/main.475049b3.chunk.css.map",
-  "static/media/styles.css": "../media/PokemonSolid.36d26dbc.ttf"
+  "static/media/styles.css": "./static/media/PokemonSolid.36d26dbc.ttf"
 }
